@@ -11,7 +11,7 @@ public class Library {
         library.add(new Book("The Alchemist", "Paulo Coelho", 15.99));
         library.add(new Book("Atomic Habits", "James Clear", 12.50));
         library.add(new Book("Rich Dad Poor Dad", "Robert Kiyosaki", 18.75));
-        library.add(new Book("Wings of Fire", "Apj", 18.75));
+        library.add(new Book("Wings of Fire ", "Apj", 18.75));
 
         // Displaying all books
         System.out.println("Library Book List:");
