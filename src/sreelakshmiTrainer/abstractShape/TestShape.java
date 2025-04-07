@@ -34,7 +34,7 @@ class Rectangle extends Shape {
 public class TestShape {
     public static void main(String[] args) {
         Shape c = new Circle(5);
-        Shape r = new Rectangle(4, 3);
+        Shape r = new Rectangle(8, 3);
 
         c.calculateArea();
         r.calculateArea();
