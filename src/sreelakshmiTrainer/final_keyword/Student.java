@@ -1,4 +1,5 @@
-package src.sreelakshmiTrainer.final_keyword;
+// package src.sreelakshmiTrainer.final_keyword;
+package final_keyword;
 
 public class Student {
     private final String name;

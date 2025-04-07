@@ -1,4 +1,5 @@
-package src.sreelakshmiTrainer.abstractExample;
+// package src.sreelakshmiTrainer.abstractExample;
+package abstractExample;
 
 abstract class Animal {
     public abstract void animalSound();
